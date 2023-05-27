@@ -26,6 +26,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
 <html>
 <Head>
 <Title>agriculture 
@@ -63,6 +64,7 @@ width="200" height="200"></a>
 width="200" height="200"></a>
 </body>
 </html>
+~~~
 
 
 ## OUTPUT
